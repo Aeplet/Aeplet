@@ -1,4 +1,4 @@
-I'm a person who spends too much time doing stuff with outdated hardware.
+I'm a person who spends too much time doing stuff.
 
 <!--
 **Aeplet/Aeplet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-📫 How to reach me:
-Preferrably Discord (username "aep", ID 415606064856301589)
-Twitter messages, or BlueSky messages
